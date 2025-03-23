@@ -63,37 +63,25 @@ create_environment:
 data: requirements
 	$(PYTHON_INTERPRETER) leanai/dataset.py
 
-## Train model
+## Manage Docker containers
 
-.PHONY: build up down api jupyter train clean
+.PHONY: build upd up down
 
 # Build all containers
 build:
 	docker-compose build
 
+# Run all containers deamonized
+upd:
+	docker-compose up -d
+
 # Run all containers
 up:
-	docker-compose up -d
+	docker-compose up
 
 # Down all containers
 down:
 	docker-compose down
-
-# Run API
-api:
-	docker-compose up -d backend
-
-# Run Jupyter
-jupyter:
-	docker-compose up -d jupyter
-
-# Fit model
-train:
-	docker-compose run --rm train
-
-# clean models
-clean:
-	rm -rf models/*
 
 #################################################################################
 # Self Documenting Commands                                                     #
