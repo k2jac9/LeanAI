@@ -294,8 +294,8 @@ ElasticNet         2.861452  11.469599  0.787454  0.238231            0.788342
 
 | Team Member             | Email Address                     | Video Link                                                             |
 |-------------------------|---------------------------------- |------------------------------------------------------------------------|
-| Igor Bak                | <baxwork88@gmail.com>             | 283                                                                    |
-| Alejandro Castellanos   | <k2jac9@users.noreply.github.com> | 283                                                                    |
+| Igor Bak                | <baxwork88@gmail.com>             | [Watch](https://vimeo.com/1068619321/4818f)                            |
+| Alejandro Castellanos   | <k2jac9@users.noreply.github.com> | [Watch](https://vimeo.com/1068619321/a44818f)                          |
 | Faisal Khan             | <fa.khan@alumni.utoronto.ca>      | [Watch](https://vimeo.com/1068619321/2e0a44818f)                       |
-| Hassan Saade            | <saadehassan@hotmail.com>         | 283                                                                    |
-| Anna Wong               | <annawong.qea@gmail.com>          | 283                                                                    |
+| Hassan Saade            | <saadehassan@hotmail.com>         | [Watch](https://vimeo.com/1068619321/2e0a44818f)                       |
+| Anna Wong               | <annawong.qea@gmail.com>          | [Watch](https://vimeo.com/1068619321/                                  |
