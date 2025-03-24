@@ -1,0 +1,2 @@
+[('mlp', MLPRegressor(alpha=0.0002, hidden_layer_sizes=(500, 250), max_iter=8000)), ('gb', GradientBoostingRegressor(n_estimators=500)), ('svr', SVR(C=32.97291769728296, epsilon=0.00027887449092634154,
+    gamma=0.00791121973367201))]

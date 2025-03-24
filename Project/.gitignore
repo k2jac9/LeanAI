@@ -184,3 +184,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Pixi env 
+*.lock
+pixi.toml
+

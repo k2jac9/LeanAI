@@ -1,0 +1,14 @@
+entity:
+  name: individual
+  primary_key: id
+
+feature_view:
+  name: bmi_feature
+  description: BMI feature from Weight and Height
+  entities:
+    - individual
+  features:
+    - name: bmi
+      type: float
+      transformation: |
+        bmi = Weight / (Height / 100)**2

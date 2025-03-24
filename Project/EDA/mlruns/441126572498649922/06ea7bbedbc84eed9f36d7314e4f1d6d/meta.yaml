@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AC/Projects/LeanAI/Project/notebooks/EDA/mlruns/441126572498649922/06ea7bbedbc84eed9f36d7314e4f1d6d/artifacts
+end_time: 1742333173612
+entry_point_name: ''
+experiment_id: '441126572498649922'
+lifecycle_stage: active
+run_id: 06ea7bbedbc84eed9f36d7314e4f1d6d
+run_name: StackingRegressor
+run_uuid: 06ea7bbedbc84eed9f36d7314e4f1d6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742333152095
+status: 3
+tags: []
+user_id: AC

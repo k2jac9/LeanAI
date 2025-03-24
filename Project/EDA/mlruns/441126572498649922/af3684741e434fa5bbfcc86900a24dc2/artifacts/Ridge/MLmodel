@@ -1,0 +1,21 @@
+artifact_path: Ridge
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.21.0
+model_size_bytes: 1003
+model_uuid: 4a01754da0ad49a4a5d83720f0c1b1b0
+prompts: null
+run_id: af3684741e434fa5bbfcc86900a24dc2
+utc_time_created: '2025-03-18 21:23:36.263938'

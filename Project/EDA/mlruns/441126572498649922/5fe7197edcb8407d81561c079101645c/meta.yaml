@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AC/Projects/LeanAI/Project/notebooks/EDA/mlruns/441126572498649922/5fe7197edcb8407d81561c079101645c/artifacts
+end_time: 1742333126920
+entry_point_name: ''
+experiment_id: '441126572498649922'
+lifecycle_stage: active
+run_id: 5fe7197edcb8407d81561c079101645c
+run_name: ElasticNet
+run_uuid: 5fe7197edcb8407d81561c079101645c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742333124459
+status: 3
+tags: []
+user_id: AC

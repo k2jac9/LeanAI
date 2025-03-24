@@ -1,0 +1,14 @@
+entity:
+  name: individual
+  primary_key: id
+
+feature_view:
+  name: forearm_to_biceps_ratio
+  description: Ratio of Forearm to Biceps
+  entities:
+    - individual
+  features:
+    - name: forearm_to_biceps
+      type: float
+      transformation: |
+        forearm_to_biceps = Forearm / Biceps

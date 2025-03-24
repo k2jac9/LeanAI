@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AC/Projects/LeanAI/Project/notebooks/EDA/mlruns/441126572498649922/bf24f70c18184379945521f4da53282d/artifacts
+end_time: 1742338730911
+entry_point_name: ''
+experiment_id: '441126572498649922'
+lifecycle_stage: active
+run_id: bf24f70c18184379945521f4da53282d
+run_name: XGBoost
+run_uuid: bf24f70c18184379945521f4da53282d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742338727451
+status: 3
+tags: []
+user_id: AC

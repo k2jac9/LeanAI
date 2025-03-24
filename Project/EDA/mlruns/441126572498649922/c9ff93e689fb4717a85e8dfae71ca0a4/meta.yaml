@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AC/Projects/LeanAI/Project/notebooks/EDA/mlruns/441126572498649922/c9ff93e689fb4717a85e8dfae71ca0a4/artifacts
+end_time: 1742338639043
+entry_point_name: ''
+experiment_id: '441126572498649922'
+lifecycle_stage: active
+run_id: c9ff93e689fb4717a85e8dfae71ca0a4
+run_name: Ridge
+run_uuid: c9ff93e689fb4717a85e8dfae71ca0a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742338635981
+status: 3
+tags: []
+user_id: AC

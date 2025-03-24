@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Body Fat Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        form {
+            display: inline-block;
+            text-align: left;
+            background: #1e1e1e;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        label, input {
+            display: block;
+            margin-bottom: 10px;
+        }
+        input {
+            padding: 8px;
+            border: none;
+            border-radius: 5px;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+            margin-top: 15px;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 10px;
+            background: #28a745;
+            border-radius: 5px;
+        }
+        .main-container {
+            display: flex;
+            height: 100vh;
+        }
+        .sidebar-form {
+            flex: 1;
+            padding: 20px;
+        }
+        .predicted-result {
+            flex: 2;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="main-container">
+        <div class="sidebar-form">
+            <form method="post" action="/predict/">
+                <label>Abdomen (cm):</label>
+                <input type="number" step="0.01" name="abdomen" required>
+
+                <label>Hip (cm):</label>
+                <input type="number" step="0.01" name="hip" required>
+                
+                <label>Weight (kg):</label>
+                <input type="number" step="0.01" name="weight" required>
+
+                <label>Thigh (cm):</label>
+                <input type="number" step="0.01" name="thigh" required>
+
+                <label>Knee (cm):</label>
+                <input type="number" step="0.01" name="knee" required>
+
+                <label>Biceps (cm):</label>
+                <input type="number" step="0.01" name="biceps" required>
+
+                <label>Neck (cm):</label>
+                <input type="number" step="0.01" name="neck" required>
+            
+                
+                <button type="submit">Predict</button>
+            </form>
+        </div>
+
+        <div class="predicted-result">
+        <h2>Body Fat Prediction App 💪</h2>
+            {% if prediction is not none %}
+                <div class="result">Predicted Body Fat Percentage: {{ prediction }}%</div>
+            {% endif %}
+        </div> 
+    </div>  
+</body>
+</html>

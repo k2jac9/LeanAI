@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AC/Projects/LeanAI/Project/notebooks/EDA/mlruns/441126572498649922/bc42b367692d4acd854bea5c2d34bb95/artifacts
+end_time: 1742338723836
+entry_point_name: ''
+experiment_id: '441126572498649922'
+lifecycle_stage: active
+run_id: bc42b367692d4acd854bea5c2d34bb95
+run_name: GradientBoosting
+run_uuid: bc42b367692d4acd854bea5c2d34bb95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742338720396
+status: 3
+tags: []
+user_id: AC

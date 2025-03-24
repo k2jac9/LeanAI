@@ -1,0 +1,1 @@
+MLPRegressor(alpha=0.0002, hidden_layer_sizes=(500, 250), max_iter=8000)

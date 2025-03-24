@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AC/Projects/LeanAI/Project/notebooks/EDA/mlruns/441126572498649922/c8094bff141b45bf853bdf2093eddff4/artifacts
+end_time: 1742338642141
+entry_point_name: ''
+experiment_id: '441126572498649922'
+lifecycle_stage: active
+run_id: c8094bff141b45bf853bdf2093eddff4
+run_name: Lasso
+run_uuid: c8094bff141b45bf853bdf2093eddff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742338639046
+status: 3
+tags: []
+user_id: AC

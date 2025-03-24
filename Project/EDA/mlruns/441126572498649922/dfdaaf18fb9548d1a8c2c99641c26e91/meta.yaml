@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AC/Projects/LeanAI/Project/notebooks/EDA/mlruns/441126572498649922/dfdaaf18fb9548d1a8c2c99641c26e91/artifacts
+end_time: 1742338648844
+entry_point_name: ''
+experiment_id: '441126572498649922'
+lifecycle_stage: active
+run_id: dfdaaf18fb9548d1a8c2c99641c26e91
+run_name: RandomForest
+run_uuid: dfdaaf18fb9548d1a8c2c99641c26e91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742338645170
+status: 3
+tags: []
+user_id: AC

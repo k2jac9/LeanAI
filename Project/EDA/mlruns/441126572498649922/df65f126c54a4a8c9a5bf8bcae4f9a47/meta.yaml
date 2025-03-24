@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AC/Projects/LeanAI/Project/notebooks/EDA/mlruns/441126572498649922/df65f126c54a4a8c9a5bf8bcae4f9a47/artifacts
+end_time: 1742333135886
+entry_point_name: ''
+experiment_id: '441126572498649922'
+lifecycle_stage: active
+run_id: df65f126c54a4a8c9a5bf8bcae4f9a47
+run_name: AdaBoost
+run_uuid: df65f126c54a4a8c9a5bf8bcae4f9a47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742333132825
+status: 3
+tags: []
+user_id: AC

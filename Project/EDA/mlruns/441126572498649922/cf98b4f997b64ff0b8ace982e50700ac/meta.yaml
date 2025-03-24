@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AC/Projects/LeanAI/Project/notebooks/EDA/mlruns/441126572498649922/cf98b4f997b64ff0b8ace982e50700ac/artifacts
+end_time: 1742338707318
+entry_point_name: ''
+experiment_id: '441126572498649922'
+lifecycle_stage: active
+run_id: cf98b4f997b64ff0b8ace982e50700ac
+run_name: LinearRegression
+run_uuid: cf98b4f997b64ff0b8ace982e50700ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742338704211
+status: 3
+tags: []
+user_id: AC

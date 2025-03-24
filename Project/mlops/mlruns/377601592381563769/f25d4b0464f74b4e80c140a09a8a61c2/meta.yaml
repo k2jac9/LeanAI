@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AC/Projects/LeanAI/Project/mlops/mlruns/377601592381563769/f25d4b0464f74b4e80c140a09a8a61c2/artifacts
+end_time: 1742634385314
+entry_point_name: ''
+experiment_id: '377601592381563769'
+lifecycle_stage: active
+run_id: f25d4b0464f74b4e80c140a09a8a61c2
+run_name: Combined_Model
+run_uuid: f25d4b0464f74b4e80c140a09a8a61c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742634381551
+status: 3
+tags: []
+user_id: AC

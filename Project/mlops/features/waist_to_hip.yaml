@@ -1,0 +1,14 @@
+entity:
+  name: individual
+  primary_key: id
+
+feature_view:
+  name: waist_to_hip_ratio
+  description: Waist to hip ratio
+  entities:
+    - individual
+  features:
+    - name: waist_to_hip
+      type: float
+      transformation: |
+        waist_to_hip = Abdomen / Hip

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AC/Projects/LeanAI/Project/mlops/mlruns/377601592381563769/0f09b45dcd764f7780eff72819b39508/artifacts
+end_time: 1742634515384
+entry_point_name: ''
+experiment_id: '377601592381563769'
+lifecycle_stage: active
+run_id: 0f09b45dcd764f7780eff72819b39508
+run_name: Female_Model
+run_uuid: 0f09b45dcd764f7780eff72819b39508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742634512529
+status: 3
+tags: []
+user_id: AC

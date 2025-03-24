@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AC/Projects/LeanAI/Project/notebooks/EDA/mlruns/441126572498649922/0e839ec7be1d43c9aaff37a64e3e1121/artifacts
+end_time: 1742333051904
+entry_point_name: ''
+experiment_id: '441126572498649922'
+lifecycle_stage: active
+run_id: 0e839ec7be1d43c9aaff37a64e3e1121
+run_name: MLPRegressor
+run_uuid: 0e839ec7be1d43c9aaff37a64e3e1121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742333038846
+status: 3
+tags: []
+user_id: AC

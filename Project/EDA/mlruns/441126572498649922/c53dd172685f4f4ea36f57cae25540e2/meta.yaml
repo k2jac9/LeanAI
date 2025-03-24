@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/AC/Projects/LeanAI/Project/notebooks/EDA/mlruns/441126572498649922/c53dd172685f4f4ea36f57cae25540e2/artifacts
+end_time: 1742333038843
+entry_point_name: ''
+experiment_id: '441126572498649922'
+lifecycle_stage: active
+run_id: c53dd172685f4f4ea36f57cae25540e2
+run_name: SVR
+run_uuid: c53dd172685f4f4ea36f57cae25540e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742333036248
+status: 3
+tags: []
+user_id: AC

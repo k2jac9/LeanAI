@@ -1,0 +1,6 @@
+{
+    "METAFLOW_DEFAULT_DATASTORE": "local",
+    "METAFLOW_DEFAULT_METADATA": "local",
+    "METAFLOW_PLUGINS": []
+  }
+  
