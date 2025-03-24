@@ -298,5 +298,4 @@ ElasticNet         2.861452  11.469599  0.787454  0.238231            0.788342
 | Alejandro Castellanos   | <k2jac9@users.noreply.github.com> | [Watch](https://vimeo.com/1068619321/a44818f)                                                     |
 | Faisal Khan             | <fa.khan@alumni.utoronto.ca>      | [Watch](https://vimeo.com/1068619321/2e0a44818f)                                                  |
 | Hassan Saade            | <saadehassan@hotmail.com>         | [Watch](https://vimeo.com/1068619321/2e0a44818f)                                                  |
-| Anna Wong               | <annawong.qea@gmail.com>          | [Watch]((https://drive.googlle.com/file/d/1GhW_6vJH5op7ZIGatGrIoBzU6l5xQu4h/view?usp=drive_link)) |                                                                               |
-
+| Anna Wong               | <annawong.qea@gmail.com>          | [Watch]((https://drive.googlle.com/file/d/1GhW_6vJH5op7ZIGatGrIoBzU6l5xQu4h/view?usp=drive_link)) |
